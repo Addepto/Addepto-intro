@@ -1,3 +1,3 @@
 # Addepto.github.io
 
-Addepto - [Data Science Consulting](https://addepto.com/data-science-consulting/)
+Addepto - [AI Consulting](https://addepto.com/artificial-intelligence-consulting/)
